@@ -9,7 +9,7 @@ Your task is to create one-page application with list of clients and their detai
 
 ## Stack
 
-* plain javascript (no coffescript, typescript, …). ES6 with Babel is possible.
+* plain javascript
 * react.js
 * redux, flux or none
 * build tool of your choice
