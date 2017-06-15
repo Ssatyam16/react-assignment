@@ -18,7 +18,7 @@ Your task is to create one-page application with list of clients and their detai
 
 ## Submission Guidelines
 
-Mail the assignment to `samarth@thebox.one` OR host it on github and mail the repository link to `samarth@thebox.one`
+Mail the assignment to `samarth[at]thebox[dot]one` OR host it on github and mail the repository link to `samarth[at]thebox[dot]one`
 
 ## Deadline
 
