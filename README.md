@@ -15,3 +15,7 @@ Your task is to create one-page application with list of clients and their detai
 * build tool of your choice
 * you can use CSS framework, CSS/HTML preprocessors of your choice
 * git is required
+
+## Deadline
+
+19th June, 2017
