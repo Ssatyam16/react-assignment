@@ -16,6 +16,10 @@ Your task is to create one-page application with list of clients and their detai
 * you can use CSS framework, CSS/HTML preprocessors of your choice
 * git is required
 
+## Submission Guidelines
+
+Mail the assignment to `samarth@thebox.one` OR host it on github and mail the repository link to `samarth@thebox.one`
+
 ## Deadline
 
 19th June, 2017
